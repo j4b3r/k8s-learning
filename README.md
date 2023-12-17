@@ -1,1 +1,2 @@
-# k8s
+# Learning k8s
+# based on Kubernetes Pattern Book
